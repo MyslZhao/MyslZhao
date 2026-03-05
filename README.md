@@ -1,1 +1,1 @@
-A python learner.
+A software project learner.
