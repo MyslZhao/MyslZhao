@@ -1,4 +1,1 @@
-计科大学生  
-CS student  
-シーエス大学生  
-Informatikstudent  
+计科专业，python后端方向
